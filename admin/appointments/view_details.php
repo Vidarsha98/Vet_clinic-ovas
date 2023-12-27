@@ -144,6 +144,7 @@ $service = (empty($service)) ? "N/A" : $service;
                 
                 <hr>
                 <div class="rounded-0 text-center mt-3">
+                       <button class ="btn btn-sm btn-flat btn-danger" type="button" id="mail"><a href="../admin/appointments/contact_form.php"><i class="fa fa-envelope" aria-hidden="true"></i>E-Mail</a></button>
                         <a class="btn btn-sm btn-primary btn-flat" href="javascript:void(0)" id="update_status"><i class="fa fa-edit"></i> Update Status</a>
                         <button class="btn btn-sm btn-danger btn-flat" type="button" id="delete_data"><i class="fa fa-trash"></i> Delete</button>
                         <a class="btn btn-light border btn-flat btn-sm" href="./?page=appointments" ><i class="fa fa-angle-left"></i> Back to List</a>

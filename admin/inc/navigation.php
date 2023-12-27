@@ -64,6 +64,33 @@
                           Service List
                         </p>
                       </a>
+                      </li>
+                    <li class="nav-item dropdown">
+                      <a href="<?php echo base_url ?>admin/?page=stock" class="nav-link nav-stock">
+                        <i class="nav-icon fas fa-boxes"></i>
+                        <p>
+                          Stock List
+                        </p>
+                      </a>
+                    </li>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a href="<?php echo base_url ?>admin/?page=pet" class="nav-link nav-pet">
+                        <i class="nav-icon fas fa-paw"></i>
+                        <p>
+                          Pet List
+                        </p>
+                      </a>
+                    </li>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a href="<?php echo base_url ?>admin/?page=Reports" class="nav-link nav-Reports">
+                        <i class="nav-icon fas fa-chart-bar"></i>
+                        <p>
+                          Reports
+                        </p>
+                      </a>
+                    </li>
                     </li>
                     <li class="nav-item dropdown">
                       <a href="<?php echo base_url ?>admin/?page=user/list" class="nav-link nav-user_list">

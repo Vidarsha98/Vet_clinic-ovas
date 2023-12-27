@@ -65,6 +65,10 @@
                                 <button class="btn btn-primary rounded-pill col-5">Send Message</button>
                             </div>
                         </div>
+                        <div class="col-lg-6 right-image p-r-0">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15831.55517493678!2d80.33542144185913!3d7.25349582015661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae316b5affca98d%3A0xec4aece6bdbb55b1!2sKegalle!5e0!3m2!1sen!2slk!4v1701084425175!5m2!1sen!2slk" 
+        width="200%" height="538" frameborder="0" style="border:0" allowfullscreen data-aos="fade-left" data-aos-duration="3000"></iframe>
+    </div>
                     </form>
                 </div>
             </div>

@@ -19,7 +19,7 @@ while($row = $appointments->fetch_assoc()){
         <div class="col-md-12">
             <div class="card card-outline card-primary rounded-0 shadow">
                 <div class="card-header rounded-0">
-                        <h4 class="card-title">Appointment Availablity</h4>
+                        <h2 class="card-title"><b>Appointment Availablity</b><br><br><i class="nav-icon fas fa-smile"></i> Hurry up! Make Your Appointment Now...</br></br></h2>
                 </div>
                 <div class="card-body">
                    <div id="appointmentCalendar"></div>
